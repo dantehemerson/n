@@ -1,0 +1,10 @@
+{
+  "name": "@dantehemerson/n",
+  "description": "Execute commands of your PM depending on wich one are you using",
+  "author": "Dante Calderon <mail@dantecalderon.dev>",
+  "version": "0.0.0",
+  "bin": {
+    "n": "main.sh"
+  },
+  "license": "MIT"
+}
